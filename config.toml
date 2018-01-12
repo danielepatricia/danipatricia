@@ -1,0 +1,43 @@
+baseURL = "anyst.github.io"
+languageCode = "en-us"
+title = "Daniele Costa"
+theme = "aerial"
+
+[params]
+  name = "Daniele Costa"
+  about = "Estudante de Sistemas de Computação &nbsp;&bull;&nbsp; Técnica Administrativa &nbsp;&bull;&nbsp; Sonhadora nas horas vagas"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/IlmkStany"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/Stanylmk/"
+
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/AnyST"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "#"
+
+[[params.social]]
+  medium = "Telegram"
+  icon = "telegram"
+  link = "https://t.me/danipatricia"
+
+[[params.social]]
+  medium = "Whatsapp"
+  icon = "whatsapp"
+  link = "https://api.whatsapp.com/send?phone=5531973543959&text=Olá,%20Tudo%20bem?"
